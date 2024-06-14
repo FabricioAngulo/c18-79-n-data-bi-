@@ -2,36 +2,63 @@
 &nbsp;&nbsp;
 # Análisis de Casos de Dengue: Sudamerica, Argentina y CABA con Power BI
 ## Descripción del Proyecto
-Este proyecto utiliza Power BI para analizar un conjunto de datos de casos sobre el dengue en diferentes países, regiones, haciendo especialmente énfasis en argentina para luego finalizar con un análisis detallado y especifico sobre la capital Buenos Aires. 
+Este proyecto utiliza Power BI para analizar un conjunto de datos de casos sobre el dengue en diferentes países, regiones, haciendo especialmente énfasis en argentina para luego finalizar con un análisis detallado y especifico sobre la capital Buenos Aires.
+
 El objetivo es identificar tendencias de casos, patrones de máximas de casos y oportunidades de mejora a través de visualizaciones interactivas y dashboards detallados.
-Se han creado múltiples informes que permiten explorar los casos por diferentes dimensiones, como regiones, capitales, comunas, períodos de tiempo, etc. 
+
+Se han creado múltiples informes que permiten explorar los casos por diferentes dimensiones, como regiones, capitales, comunas, períodos de tiempo, etc.
+
 El análisis facilita la toma de decisiones estratégicas basadas en datos, mejorando la eficiencia y el mejoramiento del cuidado como así también la precaución.
 
 A continuación se visualizara breves pantallazos de las diferentes graficas del dashboard:
 En principio te encontraras con unos botones interactivos a modo de paginado, que te llevaran a la página solicitada una vez se presione cualquiera de ellos.
+
 ![1](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/d2dd0444-f60e-47d6-9727-b739e7d20db3)
+
 En el apartado siguiente (Países Sudamericanos) podrás visualizar de manera general los años, la cantidad de casos graves, los casos confirmados y cantidad de fallecidos en América Del Sur.
+
 Para esta grafica se utilizaron un segmentador para filtrar los años y tarjetas para las cantidades.
+
 ![2](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/42c028af-5786-48cc-b343-ddf2282c3516)
+
 En el siguiente mapa interactivo, veras los países y regiones afectados.
+
 ![3](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/3253ce36-469d-4179-84c1-611f0c68170e)
+
 Finalmente el ultimo grafico de barras apiladas de la primer página representa la cantidad de casos de dengue por país:
+
 ![4](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/6de5c3f8-18e7-47de-a0bf-2626ab0aeba5)
+
 A modo de paginación se presenta el siguiente botón que te llevara a la siguiente página:
+
 ![5](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/9e9492a3-e3fc-4602-895c-1b7cd257840a)
+
 En las siguientes graficas se puede observar un segmentador para filtrar los casos en argentina por año, luego con el mismo formato se filtra por provincias y en el ultimo caso se visualiza una tarjeta interactiva con la cantidad de casos.
+
 ![6](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/58e963dd-0aec-42a8-877d-dbed4e3da174)
+
 En el siguiente grafico de columnas agrupadas se puede observar las provincias mas afectadas:
+
 ![7](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/4b66e863-b4c0-49c7-9503-e87bd009c695)
+
 En el grafico Treemap se ve reflejado el rango etario más perjudicado:
+
 ![8](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/cec8624a-364a-4703-be3c-e4155996cf3e)
+
 La siguiente imagen representa dos segmentadores lo cual uno realiza un filtrado por comuna y el otro por año, específicamente en la ciudad de Buenos Aires (CABA):
+
 ![9](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/b7a3f643-c947-4abb-9cab-79d13c5bee9a)
+
 Luego podemos ver, en el siguiente grafico de barras agrupadas los grupos etarios más perjudicados en la provincia de Argentina:
+
 ![10](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/1cb426fe-0ca5-4021-b7d1-5cde06c01ef5)
+
 En la siguiente imagen se encuentra reflejado en un gráfico de líneas la evolución de casos:
+
 ![11](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/f74b13fd-e2a6-4be1-9dbd-beebb1202e4c)
+
 Finalmente en la última parte de esta página se puede encontrar dos tarjetas la cual contienen los casos posibles de dengue como así también los casos confirmados y luego debajo otro grafico de tabla con los campos de comuna , confirmados y fallecidos:
+
 ![12](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/dc4d628f-8a3e-4a0c-83d7-bbf38629287c)
 &nbsp;&nbsp;
 ## Colaboradores del proyecto
