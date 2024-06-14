@@ -1,7 +1,7 @@
 # c18-79-n-data-bi-
 &nbsp;&nbsp;
 # Casos Dengue
-##Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto utiliza Power BI para analizar un conjunto de datos de casos sobre el dengue en diferentes países, regiones, haciendo especialmente énfasis en argentina para luego finalizar con un análisis detallado y especifico sobre la capital Buenos Aires. 
 El objetivo es identificar tendencias de casos, patrones de máximas de casos y oportunidades de mejora a través de visualizaciones interactivas y dashboards detallados.
 Se han creado múltiples informes que permiten explorar los casos por diferentes dimensiones, como regiones, capitales, comunas, períodos de tiempo, etc. 
