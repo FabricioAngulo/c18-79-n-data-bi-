@@ -1,6 +1,13 @@
 # c18-79-n-data-bi-
 &nbsp;&nbsp;
 # Casos Dengue
+##Descripción del Proyecto
+Este proyecto utiliza Power BI para analizar un conjunto de datos de casos sobre el dengue en diferentes países, regiones, haciendo especialmente énfasis en argentina para luego finalizar con un análisis detallado y especifico sobre la capital Buenos Aires. 
+El objetivo es identificar tendencias de casos, patrones de máximas de casos y oportunidades de mejora a través de visualizaciones interactivas y dashboards detallados.
+Se han creado múltiples informes que permiten explorar los casos por diferentes dimensiones, como regiones, capitales, comunas, períodos de tiempo, etc. 
+El análisis facilita la toma de decisiones estratégicas basadas en datos, mejorando la eficiencia y el mejoramiento del cuidado como así también la precaución.
+
+A continuación se visualizara breves pantallazos de las diferentes graficas del dashboard:
 &nbsp;
 &nbsp;
 ## Presentación
@@ -9,10 +16,6 @@
 ## Detalles
 &nbsp;
 &nbsp;
-## 
-## 
-## 
-## 
 &nbsp;
 ## Colaboradores del proyecto
 | <img src="[[](![carla](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/aeb8da23-305a-4c37-9d6d-ea6f167bd56b))](https://private-user-images.githubusercontent.com/156029433/339585773-44511131-eeda-41fd-bb13-3805961ba7fb.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzMjM5NDAsIm5iZiI6MTcxODMyMzY0MCwicGF0aCI6Ii8xNTYwMjk0MzMvMzM5NTg1NzczLTQ0NTExMTMxLWVlZGEtNDFmZC1iYjEzLTM4MDU5NjFiYTdmYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNFQwMDA3MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lM2RmOTcxZjM0NjM4OGIzMDJiMTZkODA2MjdjZWQ1NzQyMzBiYzgwNzMxNzBmZGE0MmRiZDM2N2Q5YjI1MzU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ww0pm-F_5LGwhcxRmAOlLfNwthg1HeDDvmDhhVvZVvc)" width="100" align="center"> | <img src="https://github.com/No-Country/c17-94-n-data-bi/assets/101953114/fba349cf-040f-4434-b22a-b4bd8ed5b3ed" width="100" align="center"> | <img src="![fabrizio](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/77bdad23-d6c1-4453-a5dd-eed9a25787c2)" width="100" align="center"> | <img src="" width="100" align="center">|
