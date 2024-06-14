@@ -18,6 +18,8 @@ A continuación se visualizara breves pantallazos de las diferentes graficas del
 &nbsp;
 &nbsp;
 ## Colaboradores del proyecto
+Somos un grupo de data analyst que realizo un proyecto para determinar el impacto social de la enfermedad “dengue” en argentina comparándolo con varios países colindantes para verificar el nivel de impacto de la misma
+&nbsp;
 | <img src="https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/aeb8da23-305a-4c37-9d6d-ea6f167bd56b)" width="100" align="center"> | <img src="https://github.com/No-Country/c17-94-n-data-bi/assets/101953114/fba349cf-040f-4434-b22a-b4bd8ed5b3ed" width="100" align="center"> | <img src="https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/77bdad23-d6c1-4453-a5dd-eed9a25787c2" width="100" align="center"> | <img src="" width="100" align="center">|
 |----------------|-----------------|---------------|----------------|
 | **Carla Nuñez** | **Fabricio Angulo** | **Fabrizio Flamini** | **Maxi Esper** |
