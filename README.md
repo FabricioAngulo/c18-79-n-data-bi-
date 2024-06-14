@@ -1,7 +1,7 @@
 # c18-79-n-data-bi-
 &nbsp;&nbsp;
-# Análisis de Casos de Dengue: Sudamerica, Argentina y CABA con Power BI
-## Descripción del Proyecto
+# **Análisis de Casos de Dengue: Sudamerica, Argentina y CABA con Power BI**
+## **Descripción del Proyecto**
 Este proyecto utiliza Power BI para analizar un conjunto de datos de casos sobre el dengue en diferentes países, regiones, haciendo especialmente énfasis en argentina para luego finalizar con un análisis detallado y especifico sobre la capital Buenos Aires.
 
 El objetivo es identificar tendencias de casos, patrones de máximas de casos y oportunidades de mejora a través de visualizaciones interactivas y dashboards detallados.
@@ -61,7 +61,7 @@ Finalmente en la última parte de esta página se puede encontrar dos tarjetas l
 
 ![12](https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/dc4d628f-8a3e-4a0c-83d7-bbf38629287c)
 &nbsp;&nbsp;
-## Colaboradores del proyecto
+## **Colaboradores del proyecto**
 Somos un grupo de data analyst que realizo un proyecto para determinar el impacto social de la enfermedad “dengue” en argentina comparándolo con varios países colindantes para verificar el nivel de impacto de la misma
 &nbsp;
 | <img src="https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/aeb8da23-305a-4c37-9d6d-ea6f167bd56b)" width="100" align="center"> | <img src="https://github.com/No-Country/c17-94-n-data-bi/assets/101953114/fba349cf-040f-4434-b22a-b4bd8ed5b3ed" width="100" align="center"> | <img src="https://github.com/FabricioAngulo/c18-79-n-data-bi-/assets/156029433/77bdad23-d6c1-4453-a5dd-eed9a25787c2" width="100" align="center"> | <img src="" width="100" align="center">|
@@ -71,6 +71,6 @@ Somos un grupo de data analyst que realizo un proyecto para determinar el impact
 
 &nbsp;
 &nbsp;
-## Tecnologías implementadas
+## **Tecnologías implementadas**
 - Power BI.
 - Excel.
