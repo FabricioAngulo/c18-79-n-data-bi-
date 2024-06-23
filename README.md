@@ -75,4 +75,3 @@ Somos un grupo de data analyst que realizo un proyecto para determinar el impact
 ## **Tecnologías implementadas**
 - Power BI.
 - Excel.
-- SQL Server.
